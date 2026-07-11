@@ -1,4 +1,25 @@
-# 📊 Codveda Data Analytics Internship
+Codveda Data Analytics Internship
+
+📁 Level 1
+    ✔ Task 1 - Data Cleaning
+    ✔ Task 2 - EDA
+
+📁 Level 2
+    ⏳ Task 1
+
+📁 Level 3
+    ⏳ Task 1
+
+Technologies:
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+
+Author
+Taha Ahmed Khallaf# 📊 Codveda Data Analytics Internship
 
 Welcome to my Data Analytics Internship projects completed as part of the **Codveda Internship Program**.
 
