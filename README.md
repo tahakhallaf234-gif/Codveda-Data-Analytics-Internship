@@ -51,7 +51,5 @@ datasets/
 Data Analyst | Python | SQL | Power BI | Machine Learning
 
 LinkedIn:
-(سنضيف الرابط لاحقًا)
 
 GitHub:
-(رابط حسابك)
