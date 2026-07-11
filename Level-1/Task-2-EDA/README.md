@@ -1,27 +1,82 @@
-# 📊 Task 2 - Exploratory Data Analysis
+# 📊 Exploratory Data Analysis (EDA)
 
-## Project Overview
+## 📌 Project Overview
 
-Performed exploratory data analysis on the Iris dataset to understand feature distributions, relationships, and statistical properties.
+This project explores the famous Iris dataset using Python.
 
-## Objectives
+The objective is to analyze the dataset, understand feature distributions, discover relationships between variables, and visualize important insights.
 
-- Summary statistics
-- Histograms
-- Boxplots
-- Scatter plots
-- Correlation analysis
+---
 
-## Tools
+## 🛠 Tools Used
 
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+- Google Colab
 
-## Results
+---
 
-- Calculated descriptive statistics.
-- Visualized feature distributions.
-- Identified correlations between numerical features.
-- Prepared insights for machine learning.
+## 📂 Dataset
+
+The dataset contains 150 iris flower samples with four numerical features:
+
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+
+Target variable:
+
+- Species
+
+---
+
+# 📈 Histogram
+
+Shows the distribution of all numerical features.
+
+![](images/histogram.png)
+
+---
+
+# 📦 Boxplot
+
+Displays spread and possible outliers.
+
+![](images/boxplot.png)
+
+---
+
+# 🎯 Scatter Plot
+
+Relationship between Petal Length and Petal Width.
+
+![](images/scatter_plot.png)
+
+---
+
+# 🌡 Correlation Heatmap
+
+Shows correlation between numerical variables.
+
+![](images/heatmap.png)
+
+---
+
+# 📌 Key Insights
+
+- The Iris dataset contains no missing values.
+- Petal measurements are more informative than sepal measurements.
+- Petal Length and Petal Width have a very strong positive correlation.
+- Iris species can be visually separated using petal features.
+- The dataset is suitable for machine learning classification.
+
+---
+
+## 👨‍💻 Author
+
+**Taha Ahmed Khallaf**
+
+Codveda Data Analytics Internship
